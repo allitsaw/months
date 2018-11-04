@@ -1,9 +1,8 @@
 # months
 enter a month number a it will tell you what season it is now
-#include <iostream>
-  
-  
 
+
+#include <iostream>
 using namespace std;
 
 int main()
